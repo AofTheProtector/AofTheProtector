@@ -1,10 +1,10 @@
-### Aofkun — The Silent Architect 🧠📓
+### Aofkun — The Silent Engineering 🧠📓
 
 > "Thought is the first magic."
 
 🔬 Exploring:  
 - EEG x AI  
-- Neuro-symbolic systems  
+- Neuro-symbolic systems engineering
 - Cognitive computing
 
 🔧 Building:  
